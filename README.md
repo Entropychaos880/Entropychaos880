@@ -18,17 +18,6 @@ I build websites and web apps for businesses in Kenya, from booking and rental s
 **AI tools:** Claude Code · Codex · Antigravity
 **Tools:** Git · GitHub
 
-## How I build: SDLC approach
-
-I follow a clear software development lifecycle so clients know what to expect at every stage.
-
-1. **Requirements and planning:** I start by understanding the business, its customers and what the site or app needs to achieve, then agree on scope and priorities.
-2. **Design:** wireframes and page layouts first, so the structure is approved before any code is written.
-3. **Development:** built in short, iterative cycles (Agile), with working features delivered step by step instead of one big handover.
-4. **Testing:** I check functionality, responsiveness across devices and edge cases before anything goes live.
-5. **Deployment:** version-controlled with Git and GitHub, then deployed to production.
-6. **Maintenance and iteration:** I keep improving based on real usage and client feedback.
-
 **Methods I use:** Agile (iterative development) · Kanban task tracking · Git-based version control
 
 ## AI-assisted development
